@@ -50,6 +50,10 @@ Criando o ponto de acesso.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-29_14_25_59.png" alt="Criando o ponto de acesso.">
 <br>
 
+Criando a política de acesso aos objetos do bucket.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-29_14_39_13.png" alt="Criando a política de acesso aos objetos do bucket.">
+<br>
+
 
 
 
