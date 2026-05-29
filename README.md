@@ -6,7 +6,6 @@
 <h5>EC2 + 2 Volumes EBS</h5>
 <br>
 
-<br>
 Criação da instância EC2 (t4g.nano) com Amazon Linux.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_17_00_21.png" alt="Criação da instância EC2 (t4g.nano) com Amazon Linux">
 <br>
