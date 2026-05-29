@@ -42,11 +42,13 @@ Criando bucket S3.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_23_35_22.png" alt="Criando bucket S3">
 <br>
 
-Linkando fonte de código da Função Lambda com o bucket do S3.
-<img src="https://github.com/dedaloaraujo/Projeto-inicial---AWS-DIO/blob/main/images/Screenshot_2026-05-29_00_03_19.png" alt="Linkando fonte de código da Função Lambda com o bucket do S3.">
+Enviando os arquivos do site para o bucket no S3.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-29_14_27_44.png" alt="Enviando os arquivos do site para o bucket no S3.">
+<br>
 
-
-
+Criando o ponto de acesso.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-29_14_25_59.png" alt="Criando o ponto de acesso.">
+<br>
 
 
 
