@@ -3,7 +3,7 @@
 <h4>Repositório com informações sobre a criação da primeira instância EC2 + EBS e S3 + Lambida do curso de AWS da DIO.</h4>
 
 <br>
-<h5>EC2 + 2 Volumes EBS</h5>
+<h5>Criando EC2 + 2 Volumes EBS</h5>
 <br>
 
 Criação da instância EC2 (t4g.nano) com Amazon Linux.
@@ -31,11 +31,7 @@ Anexando outro Volume EBS.
 <br>
 <br>
 
-<h5>Lambida + S3</h5>
-<br>
-
-Criando Função no Lambda.
-<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_23_51_31.png" alt="Criando Função no Lambda.">
+<h5>Criando S3</h5>
 <br>
 
 Criando bucket S3.
@@ -54,7 +50,9 @@ Criando a política de acesso aos objetos do bucket.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-29_14_39_13.png" alt="Criando a política de acesso aos objetos do bucket.">
 <br>
 
+Link do site hospedado no bucket S3:
 
+https://dio-bucket-dedalo.s3.us-east-1.amazonaws.com/index.html
 
 
 
