@@ -52,7 +52,10 @@ Criando a política de acesso aos objetos do bucket.
 
 Link do site hospedado no bucket S3:
 
-https://dio-bucket-dedalo.s3.us-east-1.amazonaws.com/index.html
+<a href="https://dio-bucket-dedalo.s3.us-east-1.amazonaws.com/index.html" target="_blank"></a>
+
+
+
 
 
 
