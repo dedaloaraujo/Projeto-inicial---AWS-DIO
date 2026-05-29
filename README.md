@@ -11,10 +11,9 @@ Criação do par de chaves para acesso via SSH.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_20_15_32.png" alt="Criação do par de chaves para acesso via SSH.">
 <br>
 
-Configuração de rede para acesso via SSH (Acessado de qualquer rede por ser uma instância de teste e eu não ter um IP fixo).
-<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_20_32_40.png" alt="Configuração de rede para acesso via SSH (Acessado de qualquer rede por ser uma instância de teste e eu não ter um IP fixo).">
+Configuração de rede para acesso via SSH (Liberada a porta 22 e o acesso de qualquer rede por ser uma instância de teste e eu não ter um IP fixo).
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_21_41_32.png" alt="Configuração de rede para acesso via SSH (Liberada a porta 22 e o acesso de qualquer rede por ser uma instância de teste e eu não ter um IP fixo).">
 <br>
 
 Configuração do armazenamento Amazon EBS.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_20_50_09.png" alt="Configuração do armazenamento Amazon EBS.">
-
