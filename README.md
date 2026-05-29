@@ -1,4 +1,4 @@
-# Projeto-inicial curso de AWS da DIO
+# Projeto inicial curso de AWS da DIO
 
 <h4>Repositório com informações sobre a criação da primeira instância EC2 + EBS e S3 + Lambida do curso de AWS da DIO.</h4>
 
