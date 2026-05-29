@@ -31,5 +31,25 @@ Anexando outro Volume EBS.
 <br>
 <br>
 
-<h5>S3 + Lambida</h5>
+<h5>Lambida + S3</h5>
+<br>
+
+Criando Função no Lambda.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_23_51_31.png" alt="Criando Função no Lambda.">
+<br>
+
+Criando bucket S3.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_23_35_22.png" alt="Criando bucket S3">
+<br>
+
+Linkando fonte de código da Função Lambda com o bucket do S3.
+<img src="https://github.com/dedaloaraujo/Projeto-inicial---AWS-DIO/blob/main/images/Screenshot_2026-05-29_00_03_19.png" alt="Linkando fonte de código da Função Lambda com o bucket do S3.">
+
+
+
+
+
+
+
+
 
