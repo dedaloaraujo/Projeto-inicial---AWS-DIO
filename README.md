@@ -24,9 +24,12 @@ Configuração do armazenamento Amazon EBS.
 
 Acesso via SSH pelo terminal.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_21_53_14.png" alt="Acesso via SSH pelo terminal.">
-
 <br>
 
 Anexando outro Volume EBS.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_22_28_25.png" alt="Anexando outro Volume EBS.">
+<br>
+<br>
+
+<h5>S3 + Lambida</h5>
 
