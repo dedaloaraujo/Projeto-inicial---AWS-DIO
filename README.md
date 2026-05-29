@@ -17,3 +17,10 @@ Configuração de rede para acesso via SSH (Liberada a porta 22 e o acesso de qu
 
 Configuração do armazenamento Amazon EBS.
 <img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_20_50_09.png" alt="Configuração do armazenamento Amazon EBS.">
+<br>
+
+Acesso via SSH pelo terminal.
+<img src="https://raw.githubusercontent.com/dedaloaraujo/Projeto-inicial---AWS-DIO/refs/heads/main/images/Screenshot_2026-05-28_21_53_14.png" alt="Acesso via SSH pelo terminal.">
+
+
+
