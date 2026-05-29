@@ -1,9 +1,9 @@
-# Projeto inicial curso de AWS da DIO
+# Projeto inicial do curso de AWS da DIO.
 
 <h4>Repositório com informações sobre a criação da primeira instância EC2 + EBS e S3 + Lambida do curso de AWS da DIO.</h4>
 
 <br>
-<h5>Criando EC2 + 2 Volumes EBS</h5>
+<h5>Criando EC2 + 2 Volumes EBS.</h5>
 <br>
 
 Criação da instância EC2 (t4g.nano) com Amazon Linux.
@@ -31,7 +31,7 @@ Anexando outro Volume EBS.
 <br>
 <br>
 
-<h5>Criando S3</h5>
+<h5>Criando S3.</h5>
 <br>
 
 Criando bucket S3.
