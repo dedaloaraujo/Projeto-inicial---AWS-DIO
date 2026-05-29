@@ -1,0 +1,25 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="fNDhBMVuk5ERan_7qd1T">
+    <mxGraphModel dx="1020" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ztgZP3LxWg47JC8olvH-2" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" value="Bucket S3" vertex="1">
+          <mxGeometry height="93" width="76.5" x="400" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0ztgZP3LxWg47JC8olvH-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0ztgZP3LxWg47JC8olvH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="267" />
+            </Array>
+            <mxPoint x="184" y="420" as="sourcePoint" />
+            <mxPoint x="414" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aodE8fRuH8uBVEXzufF7-2" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="150" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
